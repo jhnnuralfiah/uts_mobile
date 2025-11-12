@@ -24,6 +24,7 @@ Halaman Biodata menampilkan informasi pribadi dan akademik pengguna, lengkap den
 
 ### Kontak
 ![WhatsApp Image 2025-11-12 at 08 59 02_f0a7b66f](https://github.com/user-attachments/assets/3ed284e8-d41e-419c-842b-9393d8f90f65)
+
 Halaman Kontak menampilkan daftar 15 kontak statis yang didefinisikan di variabel (nama, nomor, dan avatar/inisial). Tampilan berupa kartu berisi circle avatar + teks. 
 
 
